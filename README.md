@@ -1,1 +1,1 @@
-# titanic
+Data Analysis of the famous Titanic dataset. The first Jupyter notebook does data exploration. The second part includes correlation, simple linear regression, and decision tree classification with hyper-parameter estimation.
